@@ -4,8 +4,8 @@
 }
 
 .name {
-    top: 100px;
     position: absolute;
+    margin-bottom: 200px;
 }
 
 .name h2 {
